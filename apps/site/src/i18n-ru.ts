@@ -1,5 +1,5 @@
 export const ruSiteTagline =
-  "Приложение для заметок с нативной поддержкой ИИ и альтернатива Evernote/Obsidian с мгновенной синхронизацией и нативным MCP. Бесплатно на Cloudflare или self-hosted в Docker.";
+  "База знаний с нативной поддержкой ИИ и альтернатива Evernote/Obsidian с мгновенной синхронизацией и нативным MCP. Бесплатно на Cloudflare или self-hosted в Docker.";
 
 export const ruSiteCopy = {
   layout: {

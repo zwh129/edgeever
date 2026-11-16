@@ -1,5 +1,5 @@
 export const frSiteTagline =
-  "Application de prise de notes native IA & alternative à Evernote/Obsidian avec synchronisation instantanée & MCP natif. Gratuit sur Cloudflare ou auto-hébergé via Docker.";
+  "Base de connaissances native IA & alternative à Evernote/Obsidian avec synchronisation instantanée & MCP natif. Gratuit sur Cloudflare ou auto-hébergé via Docker.";
 
 export const frSiteCopy = {
   layout: {
